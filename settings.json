@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TokenSmp-V7k7.aternos.me",
-    "port": 43785,
+    "ip": "AnmolCore.aternos.me",
+    "port":  52263,
     "version": "",
     "try-creative": false
   },
